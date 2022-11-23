@@ -8,5 +8,5 @@
 ## Team members:
 ### Rahul Sumbly - Scripts for Data Reading, Processing and Visualization [Python and File Handling] (Team Lead)
 ### Alan Mohan - Back End [PHP]
-### Vansh Gupta - Front End [HTML and CSS]
-### Suryakrishnan Narayan - Front End / Hosting [HTML and CSS]
+### Vansh Gupta -  [HTML,CSS and JAVASCRIPT] (Front-End)
+### Suryakrishnan Narayan - [HTML,CSS and JAVASCRIPT] (Front-End)
